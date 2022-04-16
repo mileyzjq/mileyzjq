@@ -1,5 +1,5 @@
 ## Hi There, I am Miley! 👋
-* 🌱 I’m a Master's student at UBC, majoring in Computer Engineering! 
+* 🌱 Currently, I am pursuing my master’s degree of Computer Engineering at UBC. 
 * 😄 Pronouns: She/Her
 * 💼 I am proficient in Java and React.
 
