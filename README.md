@@ -4,3 +4,4 @@
 * 💼 I am proficient in Java and React.
 
 ## Current Status 💻
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=mileyzjq&theme=radical) 
