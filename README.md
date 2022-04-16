@@ -4,4 +4,6 @@
 * 💼 I am proficient in Java and React.
 
 ## Current Status 💻
-![miley's github stats](https://github-readme-stats.vercel.app/api?username=mileyzjq&show_icons=true) 
+![Miley's github stats](https://github-readme-stats.vercel.app/top-langs/api?username=mileyzjq&show_icons=true) 
+
+![Miley's github stats](https://github-readme-stats.vercel.app/api?username=mileyzjq&show_icons=true) 
